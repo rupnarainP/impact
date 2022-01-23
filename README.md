@@ -1,4 +1,4 @@
-# mamaMoney
+# Impact
 
 <b>USSD Service:</b>
 
